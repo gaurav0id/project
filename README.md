@@ -1,2 +1,2 @@
 # Projects
-This repo contains Projects.
+This repo contains Sport's Celebrity Face Recognition
